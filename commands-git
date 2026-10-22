@@ -1,0 +1,4 @@
+git clone https://github.com/ayder-salah/git-begins.git
+git add .
+git commit -m "Ajout"
+git push -u origin main
